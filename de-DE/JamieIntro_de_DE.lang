@@ -1,12 +1,12 @@
 language.code=de-DE
 language=Deutsch
 //TODO Translate [Reference] 'Oh! It's nice to see a new face in town!'
-staxel.village.dialogue.intro.Jamie.line:10000100=
+staxel.village.dialogue.intro.Jamie.line:10000100=Ah! Schön ein neues Gesicht in der Stadt zu haben!
 //TODO Translate [Reference] 'I'm just hunting monsters.'
-staxel.village.dialogue.intro.Jamie.line:10000200=
+staxel.village.dialogue.intro.Jamie.line:10000200=Ich jage Monster.
 //TODO Translate [Reference] 'How about you?'
-staxel.village.dialogue.intro.Jamie.line:10000300=
+staxel.village.dialogue.intro.Jamie.line:10000300=Und du?
 //TODO Translate [Reference] 'I'm {0-name} by the way!'
-staxel.village.dialogue.intro.Jamie.line:10000400=
+staxel.village.dialogue.intro.Jamie.line:10000400=Mein Name ist übrigens {0-name}!
 //TODO Translate [Reference] 'You should come see my game collection sometime!'
-staxel.village.dialogue.intro.Jamie.line:10000500=
+staxel.village.dialogue.intro.Jamie.line:10000500=Wenn du vorbei kommst, kannst du dir mal meine Spielesammlung angucken.
