@@ -21,77 +21,77 @@ catalogue.total=Summe
 //[Reference] 'success'
 commands.tripod.success=Erfolg
 //TODO Translate [Reference] 'Break'
-controlHint.verb.Break=
+controlHint.verb.Break=Zerbrechen
 //TODO Translate [Reference] 'Buy'
-controlHint.verb.Buy=
+controlHint.verb.Buy=Kaufen
 //TODO Translate [Reference] 'Calm'
-controlHint.verb.Calm=
+controlHint.verb.Calm=Ruhig
 //TODO Translate [Reference] 'Cast'
-controlHint.verb.Cast=
+controlHint.verb.Cast=Angeln
 //TODO Translate [Reference] 'Catch'
-controlHint.verb.Catch=
+controlHint.verb.Catch=Fangen
 //TODO Translate [Reference] 'Check'
-controlHint.verb.Check=
+controlHint.verb.Check=Prüfen
 //TODO Translate [Reference] 'Chop'
-controlHint.verb.Chop=
+controlHint.verb.Chop=Hacken
 //TODO Translate [Reference] 'Command'
-controlHint.verb.Command=
+controlHint.verb.Command=Kommandieren
 //TODO Translate [Reference] 'Cancel'
-controlHint.verb.default.Cancel=
+controlHint.verb.default.Cancel=Abbrechen
 //TODO Translate [Reference] 'Place'
-controlHint.verb.default.Dock=
+controlHint.verb.default.Dock=Plazieren
 //TODO Translate [Reference] 'Drink'
-controlHint.verb.default.Drink=
+controlHint.verb.default.Drink=Trinken
 //TODO Translate [Reference] 'Eat'
-controlHint.verb.default.Eat=
+controlHint.verb.default.Eat=Essen
 //TODO Translate [Reference] 'Harvest'
-controlHint.verb.default.Harvest=
+controlHint.verb.default.Harvest=Ernten
 //TODO Translate [Reference] 'Interact'
-controlHint.verb.default.Interact=
+controlHint.verb.default.Interact=Interagieren
 //TODO Translate [Reference] 'Rotate'
-controlHint.verb.default.Rotate=
+controlHint.verb.default.Rotate=Drehen
 //TODO Translate [Reference] 'Throw'
-controlHint.verb.default.Throw=
+controlHint.verb.default.Throw=Werfen
 //TODO Translate [Reference] 'Pick Up'
-controlHint.verb.default.Undock=
+controlHint.verb.default.Undock=Aufheben
 //TODO Translate [Reference] 'Use'
-controlHint.verb.default.Use=
+controlHint.verb.default.Use=Benutzen
 //TODO Translate [Reference] 'Dig'
-controlHint.verb.Dig=
+controlHint.verb.Dig=Graben
 //TODO Translate [Reference] 'Fill'
-controlHint.verb.Fill=
+controlHint.verb.Fill=Füllen
 //TODO Translate [Reference] 'Inspect'
-controlHint.verb.Inspect=
+controlHint.verb.Inspect=Inspizieren
 //TODO Translate [Reference] 'Launch'
-controlHint.verb.Launch=
+controlHint.verb.Launch=Starten
 //TODO Translate [Reference] 'Milk'
-controlHint.verb.Milk=
+controlHint.verb.Milk=Milch
 //TODO Translate [Reference] 'Open'
-controlHint.verb.Open=
+controlHint.verb.Open=Öffnen
 //TODO Translate [Reference] 'Plant'
-controlHint.verb.Plant=
+controlHint.verb.Plant=Pflanzen
 //TODO Translate [Reference] 'Pull'
-controlHint.verb.Pull=
+controlHint.verb.Pull=Ziehen
 //TODO Translate [Reference] 'Reap'
-controlHint.verb.Reap=
+controlHint.verb.Reap=Ernten
 //TODO Translate [Reference] 'Reset'
-controlHint.verb.Reset=
+controlHint.verb.Reset=Zurücksetzen
 //TODO Translate [Reference] 'Sell'
-controlHint.verb.Sell=
+controlHint.verb.Sell=Verkaufen
 //TODO Translate [Reference] 'Shear'
-controlHint.verb.Shear=
+controlHint.verb.Shear=Scheren
 //TODO Translate [Reference] 'Sit'
-controlHint.verb.Sit=
+controlHint.verb.Sit=Sitzen
 //TODO Translate [Reference] 'Sleep'
-controlHint.verb.Sleep=
+controlHint.verb.Sleep=Schlafen
 //TODO Translate [Reference] 'Sweep'
-controlHint.verb.Sweep=
+controlHint.verb.Sweep=Fegen
 //TODO Translate [Reference] 'Chat'
-controlHint.verb.Talk=
+controlHint.verb.Talk=Reden
 //TODO Translate [Reference] 'Till'
-controlHint.verb.Till=
+controlHint.verb.Till=Pflügen
 //TODO Translate [Reference] 'Water'
-controlHint.verb.Water=
+controlHint.verb.Water=Wasser
 
 //[Reference] 'Item Hotkeys'
 controllerHints.hotkeys=Item-Schnelltasten
@@ -607,75 +607,75 @@ staxel.bush.RaspberryBush.description=Ein Busch, an dem leckere Himbeeren wachse
 //[Reference] 'Raspberry Bush Seed'
 staxel.bush.RaspberryBush.name=Himbeerensamen
 //TODO Translate [Reference] 'assemble'
-staxel.category.assemble=
+staxel.category.assemble=zusammenbauen
 //TODO Translate [Reference] 'assembly'
-staxel.category.assembly=
+staxel.category.assembly=Montage
 //TODO Translate [Reference] 'Awning'
-staxel.category.awning=
+staxel.category.awning=Markise
 //TODO Translate [Reference] 'boiled'
-staxel.category.boiled=
+staxel.category.boiled=gekocht
 //TODO Translate [Reference] 'carpentry'
-staxel.category.carpentry=
+staxel.category.carpentry=Zimmerhandwerk
 //TODO Translate [Reference] 'carve'
-staxel.category.carve=
+staxel.category.carve=schnitzen
 //TODO Translate [Reference] 'carving'
-staxel.category.carving=
+staxel.category.carving=Schnitzerei
 //TODO Translate [Reference] 'Cloth'
-staxel.category.cloth=
+staxel.category.cloth=Stoff
 //TODO Translate [Reference] 'construct'
-staxel.category.construct=
+staxel.category.construct=Bauen
 //TODO Translate [Reference] 'construction'
-staxel.category.construction=
+staxel.category.construction=Konstruktion
 //TODO Translate [Reference] 'cooked'
-staxel.category.cooked=
+staxel.category.cooked=gekocht
 //TODO Translate [Reference] 'Cube'
-staxel.category.cube=
+staxel.category.cube=Würfel
 //TODO Translate [Reference] 'fried'
-staxel.category.fried=
+staxel.category.fried=fritiert
 //TODO Translate [Reference] 'fryable'
-staxel.category.fryable=
+staxel.category.fryable=fritierbar
 //TODO Translate [Reference] 'gazebo'
-staxel.category.gazebo=
+staxel.category.gazebo=Pavillon
 //TODO Translate [Reference] 'hay'
-staxel.category.hay=
+staxel.category.hay=Heu
 //TODO Translate [Reference] 'Japanese'
-staxel.category.japanese=
+staxel.category.japanese=Japanisch
 //TODO Translate [Reference] 'jelly'
-staxel.category.jelly=
+staxel.category.jelly=Gelee
 //[Reference] 'kennel'
 staxel.category.kennel=Zwinger
 //TODO Translate [Reference] 'LightBlue'
-staxel.category.LightBlue=
+staxel.category.LightBlue=Hellblau
 //TODO Translate [Reference] 'LightGreen'
-staxel.category.LightGreen=
+staxel.category.LightGreen=Hellgrün
 //TODO Translate [Reference] 'lumber'
-staxel.category.lumber=
+staxel.category.lumber=Holz
 //TODO Translate [Reference] 'masonry'
-staxel.category.masonry=
+staxel.category.masonry=Mauerwerk
 //TODO Translate [Reference] 'mortar'
-staxel.category.mortar=
+staxel.category.mortar=Mörtel
 //TODO Translate [Reference] 'mushrooms'
-staxel.category.mushrooms=
+staxel.category.mushrooms=Pilze
 //TODO Translate [Reference] 'nail'
-staxel.category.nail=
+staxel.category.nail=Nagel
 //[Reference] 'poop'
 staxel.category.poop=Kot
 //TODO Translate [Reference] 'rice'
-staxel.category.rice=
+staxel.category.rice=Reis
 //TODO Translate [Reference] 'sawing'
-staxel.category.sawing=
+staxel.category.sawing=sägen
 //[Reference] 'sheared'
 staxel.category.sheared=Geschoren
 //[Reference] 'shell'
 staxel.category.shell=Muschel
 //TODO Translate [Reference] 'star'
-staxel.category.star=
+staxel.category.star=Stern
 //TODO Translate [Reference] 'Sun'
-staxel.category.sun=
+staxel.category.sun=Sonne
 //TODO Translate [Reference] 'Sunflower'
-staxel.category.Sunflower=
+staxel.category.Sunflower=Sonnenblume
 //TODO Translate [Reference] 'varnish'
-staxel.category.varnish=
+staxel.category.varnish=Lack
 staxel.core.Compound.description=
 //[Reference] 'Compound'
 staxel.core.Compound.name=Gelände
