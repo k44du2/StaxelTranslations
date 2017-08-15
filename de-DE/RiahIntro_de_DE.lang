@@ -1,10 +1,10 @@
 language.code=de-DE
 language=Deutsch
 //TODO Translate [Reference] 'Mya! New prey!'
-staxel.village.dialogue.intro.Riah.line:10000100=
+staxel.village.dialogue.intro.Riah.line:10000100=Miau! Neue Beute!
 //TODO Translate [Reference] 'Myahaha! I'm just messing with you. You don't look like fish.'
-staxel.village.dialogue.intro.Riah.line:10000200=
+staxel.village.dialogue.intro.Riah.line:10000200=Miahaha! Nur ein Scherz, du siehst nicht wie'n Fisch aus!
 //TODO Translate [Reference] 'I'm {0-name}, just a local fisher.'
-staxel.village.dialogue.intro.Riah.line:10000300=
+staxel.village.dialogue.intro.Riah.line:10000300=Ich bin {0-name} und der örtliche Angler.
 //TODO Translate [Reference] 'If you ever need any fishing tips, come see me mya!'
-staxel.village.dialogue.intro.Riah.line:10000400=
+staxel.village.dialogue.intro.Riah.line:10000400=Fall's du Tipps zum angeln brauchst, besuch' miach!
