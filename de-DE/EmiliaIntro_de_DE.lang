@@ -1,8 +1,8 @@
 language.code=de-DE
 language=Deutsch
 //TODO Translate [Reference] 'Hi hi!'
-staxel.village.dialogue.intro.Emilia.line:10000100=
+staxel.village.dialogue.intro.Emilia.line:10000100=Hi hi!
 //TODO Translate [Reference] 'I don't think we've met yet!'
-staxel.village.dialogue.intro.Emilia.line:10000200=
+staxel.village.dialogue.intro.Emilia.line:10000200=Ich glaube nicht, dass wir uns schon kennen!
 //TODO Translate [Reference] 'I'm {0-name}! I hope we get along well!'
-staxel.village.dialogue.intro.Emilia.line:10000300=
+staxel.village.dialogue.intro.Emilia.line:10000300=Ich bin{0-name}! Ich hoffe wir verstehen uns gut!
